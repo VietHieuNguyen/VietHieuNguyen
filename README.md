@@ -63,24 +63,15 @@ mantra   : "Make it work. Make it right. Make it fast."
 
 ---
 
-##  GitHub Stats
-
+## Contribution Snake
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VietHieuNguyen&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=c9d1d9&include_all_commits=false&count_private=true&show_icons=true" height="175"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VietHieuNguyen&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=a371f7&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&sideNums=a371f7" height="175"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VietHieuNguyen/VietHieuNguyen/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/VietHieuNguyen/VietHieuNguyen/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://github.com/VietHieuNguyen/VietHieuNguyen/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
 </div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VietHieuNguyen&bg_color=0d1117&color=58a6ff&line=a371f7&point=58a6ff&area=true&area_color=a371f7&hide_border=true" width="95%"/>
-
-</div>
-
 ---
 
 ## Connect
