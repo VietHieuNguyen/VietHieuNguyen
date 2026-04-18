@@ -76,7 +76,7 @@ mantra   : "Make it work. Make it right. Make it fast."
 
 ---
 
-##  Connect
+## Connect
 
 <div align="center">
 
