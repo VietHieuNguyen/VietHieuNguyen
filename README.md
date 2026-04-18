@@ -62,7 +62,7 @@ mantra   : "Make it work. Make it right. Make it fast."
 
 ---
 
-##  Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
