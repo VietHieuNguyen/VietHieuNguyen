@@ -1,16 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1117,100:161b22&height=140&section=header&animation=twinkling&fontColor=58a6ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=130&section=header&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Viet+Hieu+Nguyen+👋;Backend+Developer;Node.js+%7C+Next.js+%7C+C%23+%7C+Databases;Crafting+scalable+systems+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ Role-Backend Developer-58a6ff?style=flat-square&labelColor=0d1117&color=58a6ff"/>
-&nbsp;
-<img src="https://img.shields.io/badge/ Based in-Vietnam 🇻🇳-a371f7?style=flat-square&labelColor=0d1117&color=a371f7"/>
-&nbsp;
-<img src="https://img.shields.io/badge/ Status-Open to Work-3fb950?style=flat-square&labelColor=0d1117&color=3fb950"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Viet+Hieu+Nguyen+%F0%9F%91%8B;Backend+Developer;APIs+%E2%80%A2+Databases+%E2%80%A2+Clean+Architecture;Building+things+that+scale." alt="Typing SVG" />
 
 </div>
 
@@ -94,23 +86,13 @@ mantra   : "Make it work. Make it right. Make it fast."
 
 ---
 
-##  Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VietHieuNguyen&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-
-</div>
-
----
-
-##  Connect
+## Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VietHieuNguyen)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VietHieuNguyen)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viethieunguyen.work@email.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
