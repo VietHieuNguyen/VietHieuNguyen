@@ -4,7 +4,6 @@
 </div>
 <br/>
 
-
 ---
 
 ```bash
@@ -21,7 +20,7 @@ mantra   : "Make it work. Make it right. Make it fast."
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -63,15 +62,18 @@ mantra   : "Make it work. Make it right. Make it fast."
 
 ---
 
-## Contribution Snake
- 
+## 🐍 Contribution Snake
+
 <div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VietHieuNguyen/VietHieuNguyen/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/VietHieuNguyen/VietHieuNguyen/blob/output/github-contribution-grid-snake.svg">
   <img alt="github-snake" src="https://github.com/VietHieuNguyen/VietHieuNguyen/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
 </div>
+
 ---
 
 ## Connect
@@ -87,8 +89,6 @@ mantra   : "Make it work. Make it right. Make it fast."
 ---
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/dynamic/json?label=Profile+Views&query=value&url=https://api.countapi.xyz/hit/VietHieuNguyen/visits&style=flat-square&color=58a6ff&labelColor=0d1117"/>
 
 [![](https://visitcount.itsvg.in/api?id=VietHieuNguyen&icon=5&color=6)](https://visitcount.itsvg.in)
 
