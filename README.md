@@ -1,12 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=130&section=header&animation=fadeIn" width="100%"/>
-
 <div align="center">
-
-[<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Viet+Hieu+Nguyen+%F0%9F%91%8B;Backend+Developer;APIs+%E2%80%A2+Databases+%E2%80%A2+Clean+Architecture;Building+things+that+scale." alt="Typing SVG" />](https://readme-typing-svg.demolab.com/demo/?duration=4999&center=true&vCenter=true&lines=Hey%2C+I'm+Nguyen+Viet+Hieu;Backend+Developer;Node.js;Building+things+that+scale;Open+to+Work)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Nguyen+Viet+Hieu;Backend+Developer;Node.js;Building+things+that+scale;Open+to+Work)](https://git.io/typing-svg)
+ 
 </div>
-
 <br/>
+
 
 ---
 
