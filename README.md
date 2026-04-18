@@ -20,7 +20,7 @@ mantra   : "Make it work. Make it right. Make it fast."
 
 ---
 
-## Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -62,7 +62,7 @@ mantra   : "Make it work. Make it right. Make it fast."
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -76,7 +76,7 @@ mantra   : "Make it work. Make it right. Make it fast."
 
 ---
 
-## Connect
+##  Connect
 
 <div align="center">
 
