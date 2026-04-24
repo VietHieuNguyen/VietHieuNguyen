@@ -76,7 +76,7 @@ mantra   : "Make it work. Make it right. Make it fast."
 
 ---
 <div align="center">
-  <img src="./assets/earth.svg" width="200" height="200"/>
+  <img src="./assets/earth.svg" width="100%" height="auto"/>
 </div>
 
 ##  Connect
